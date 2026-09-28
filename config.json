@@ -1,5 +1,5 @@
 {
-  "scenario_id": "test",
+  "scenario_id": "operation-pale-harbour-c2-simulation",
   "run_id": "exercise-001",
   "actions": [
     { "id": "github_probe" },
@@ -7,7 +7,9 @@
     { "id": "steam_profile_probe" },
     { "id": "decoy_collection" },
     { "id": "file/password_sniffing" },
+    { "id": "apt_signature" },
+    { "id": "set_wallpaper" },
     { "id": "pst_placeholder" },
-    { "id": "lab_upload_marker" }
+    { "id": "github_pst_upload" }
   ]
 }
