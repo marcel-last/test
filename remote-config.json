@@ -1,0 +1,13 @@
+{
+  "scenario_id": "test",
+  "run_id": "exercise-001",
+  "actions": [
+    { "id": "github_probe" },
+    { "id": "google_calendar_probe" },
+    { "id": "steam_profile_probe" },
+    { "id": "decoy_collection" },
+    { "id": "file/password_sniffing" },
+    { "id": "pst_placeholder" },
+    { "id": "lab_upload_marker" }
+  ]
+}
